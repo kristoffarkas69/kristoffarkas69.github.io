@@ -45,6 +45,7 @@ p{
     background-color: #B0D1F1;
     width: 100%;
     margin-bottom: 20px;
+    border-collapse: collapse;
 }
 .felkover{
     font-weight: bold;
